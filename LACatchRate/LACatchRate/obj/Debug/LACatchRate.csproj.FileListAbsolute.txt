@@ -1,0 +1,12 @@
+C:\Users\pc2\source\repos\LACatchRate\LACatchRate\bin\Debug\LACatchRate.exe.config
+C:\Users\pc2\source\repos\LACatchRate\LACatchRate\bin\Debug\LACatchRate.exe
+C:\Users\pc2\source\repos\LACatchRate\LACatchRate\bin\Debug\LACatchRate.pdb
+C:\Users\pc2\source\repos\LACatchRate\LACatchRate\obj\Debug\LACatchRate.csproj.AssemblyReference.cache
+C:\Users\pc2\source\repos\LACatchRate\LACatchRate\obj\Debug\LACatchRate.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc2\source\repos\LACatchRate\LACatchRate\obj\Debug\LACatchRate.Form1.resources
+C:\Users\pc2\source\repos\LACatchRate\LACatchRate\obj\Debug\LACatchRate.Properties.Resources.resources
+C:\Users\pc2\source\repos\LACatchRate\LACatchRate\obj\Debug\LACatchRate.csproj.GenerateResource.cache
+C:\Users\pc2\source\repos\LACatchRate\LACatchRate\obj\Debug\LACatchRate.csproj.CoreCompileInputs.cache
+C:\Users\pc2\source\repos\LACatchRate\LACatchRate\obj\Debug\LACatchRate.exe
+C:\Users\pc2\source\repos\LACatchRate\LACatchRate\obj\Debug\LACatchRate.pdb
+C:\Users\pc2\source\repos\LACatchRate\LACatchRate\obj\Debug\LACatchRate.AboutBox1.resources
